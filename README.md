@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adil Khan
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Jetpack Compose
+- 👀 I’m interested in Android and backend Development
+- 🌱 I’m currently exploring backend using Java Springboot
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/iadilkhan/)
 
 <!---
